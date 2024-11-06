@@ -2,6 +2,15 @@ streamlit
 langchain
 pypdf
 streamlit
-openai
 tiktoken
 langchain_community
+sentence_transformers
+torch
+sentencepiece
+transformers
+accelerate
+chromadb
+fastapi
+uvicorn
+python-multipart
+aiofiles
